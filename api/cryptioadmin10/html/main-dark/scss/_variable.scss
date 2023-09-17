@@ -101,9 +101,9 @@ $light4: #dfe3e7;
 $light5: #bac0c7;
 $white:#ffffff;
 $black:#000000;
-$danger:#ff3f3f;
-$warning:#ffa800;
-$success:#18d26b;
+$danger:#0c7ecf;
+$warning:#1661be;
+$success:#fcc200;
 $primary:#0080ff;
 $info:#00b8d4;
 $secondary:#93b4d4;
@@ -142,9 +142,9 @@ $gray-900:      #1c2d41;
 $theme-primary-primary: #0080ff;
 $theme-primary-secondary:#93b4d4;
 $theme-primary-info: #00b8d4;
-$theme-primary-success: #18d26b;
-$theme-primary-danger: #ff3f3f;
-$theme-primary-warning: #ffa800;
+$theme-primary-success: #fcc200;
+$theme-primary-danger: #0c7ecf;
+$theme-primary-warning: #1661be;
 
 $theme-primary-grd: linear-gradient(45deg, $theme-primary-primary, $theme-primary-info);
 $theme-primary-grd-dark: linear-gradient(45deg, darken($theme-primary-primary, 20%), darken($theme-primary-info, 20%));
@@ -153,9 +153,9 @@ $theme-primary-grd-dark: linear-gradient(45deg, darken($theme-primary-primary, 2
 $theme-secondary-primary: #93b4d4;
 $theme-secondary-secondary:#0080ff;
 $theme-secondary-info: #00b8d4;
-$theme-secondary-success: #18d26b;
-$theme-secondary-danger: #ff3f3f;
-$theme-secondary-warning: #ffa800;
+$theme-secondary-success: #fcc200;
+$theme-secondary-danger: #0c7ecf;
+$theme-secondary-warning: #1661be;
 
 $theme-secondary-grd: linear-gradient(45deg, $theme-secondary-primary, $theme-secondary-info);
 $theme-secondary-grd-dark: linear-gradient(45deg, darken($theme-secondary-primary, 20%), darken($theme-secondary-info, 20%));
@@ -163,38 +163,38 @@ $theme-secondary-grd-dark: linear-gradient(45deg, darken($theme-secondary-primar
 $theme-info-primary: #00b8d4;
 $theme-info-secondary:#93b4d4;
 $theme-info-info: #0080ff;
-$theme-info-success: #18d26b;
-$theme-info-danger: #ff3f3f;
-$theme-info-warning: #ffa800;
+$theme-info-success: #fcc200;
+$theme-info-danger: #0c7ecf;
+$theme-info-warning: #1661be;
 
 $theme-info-grd: linear-gradient(45deg, $theme-info-primary, $theme-info-info);
 $theme-info-grd-dark: linear-gradient(45deg, darken($theme-info-primary, 20%), darken($theme-info-info, 20%));
 
-$theme-success-primary: #18d26b;
+$theme-success-primary: #fcc200;
 $theme-success-secondary:#93b4d4;
 $theme-success-info: #00b8d4;
 $theme-success-success: #0080ff;
-$theme-success-danger: #ff3f3f;
-$theme-success-warning: #ffa800;
+$theme-success-danger: #0c7ecf;
+$theme-success-warning: #1661be;
 
 $theme-success-grd: linear-gradient(45deg, $theme-success-primary, $theme-success-info);
 $theme-success-grd-dark: linear-gradient(45deg, darken($theme-success-primary, 20%), darken($theme-success-info, 20%));
 
-$theme-danger-primary: #ff3f3f;
+$theme-danger-primary: #0c7ecf;
 $theme-danger-secondary:#93b4d4;
 $theme-danger-info: #00b8d4;
-$theme-danger-success: #18d26b;
+$theme-danger-success: #fcc200;
 $theme-danger-danger: #0080ff;
-$theme-danger-warning: #ffa800;
+$theme-danger-warning: #1661be;
 
 $theme-danger-grd: linear-gradient(45deg, $theme-danger-primary, $theme-danger-info);
 $theme-danger-grd-dark: linear-gradient(45deg, darken($theme-danger-primary, 20%), darken($theme-danger-info, 20%));
 
-$theme-warning-primary: #ffa800;
+$theme-warning-primary: #1661be;
 $theme-warning-secondary:#93b4d4;
 $theme-warning-info: #00b8d4;
-$theme-warning-success: #18d26b;
-$theme-warning-danger: #ff3f3f;
+$theme-warning-success: #fcc200;
+$theme-warning-danger: #0c7ecf;
 $theme-warning-warning: #0080ff;
 
 $theme-warning-grd: linear-gradient(45deg, $theme-warning-primary, $theme-warning-info);

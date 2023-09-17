@@ -487,15 +487,15 @@ body.dark-skin {
   border-color: rgba(255, 255, 255, 0.12); }
 .dark-skin .form-element .form-control {
   color: #8a99b5;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffa800), to(#ffa800)), -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.12)), to(rgba(255, 255, 255, 0.12)));
-  background-image: -webkit-linear-gradient(#ffa800, #ffa800), -webkit-linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12));
-  background-image: -o-linear-gradient(#ffa800, #ffa800), -o-linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12));
-  background-image: linear-gradient(#ffa800, #ffa800), linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12)); }
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#1661be), to(#1661be)), -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.12)), to(rgba(255, 255, 255, 0.12)));
+  background-image: -webkit-linear-gradient(#1661be, #1661be), -webkit-linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12));
+  background-image: -o-linear-gradient(#1661be, #1661be), -o-linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12));
+  background-image: linear-gradient(#1661be, #1661be), linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12)); }
   .dark-skin .form-element .form-control:focus {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#ffa800), to(#ffa800)), -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.12)), to(rgba(255, 255, 255, 0.12)));
-    background-image: -webkit-linear-gradient(#ffa800, #ffa800), -webkit-linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12));
-    background-image: -o-linear-gradient(#ffa800, #ffa800), -o-linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12));
-    background-image: linear-gradient(#ffa800, #ffa800), linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12)); }
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#1661be), to(#1661be)), -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.12)), to(rgba(255, 255, 255, 0.12)));
+    background-image: -webkit-linear-gradient(#1661be, #1661be), -webkit-linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12));
+    background-image: -o-linear-gradient(#1661be, #1661be), -o-linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12));
+    background-image: linear-gradient(#1661be, #1661be), linear-gradient(rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12)); }
 .dark-skin .input-group .input-group-addon {
   border-color: rgba(255, 255, 255, 0.12);
   color: #8a99b5;
@@ -693,11 +693,11 @@ body.dark-skin {
 .dark-skin :not(pre) > code[class*="language-"] {
   background: #32436f;
   border: 1px solid #3a4e80;
-  border-left: 2px solid #ffa800; }
+  border-left: 2px solid #1661be; }
 .dark-skin pre[class*="language-"] {
   background: #32436f;
   border: 1px solid #3a4e80;
-  border-left: 2px solid #ffa800; }
+  border-left: 2px solid #1661be; }
 .dark-skin hr {
   border-top-color: rgba(255, 255, 255, 0.1); }
 .dark-skin .icons-list-demo div {

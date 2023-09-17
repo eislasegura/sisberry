@@ -7408,7 +7408,7 @@ $(function () {
                 //pintar una celda
                 if(data[2]>7){
                     $('td',row).css({                        
-                        'color': '#ff3f3f',
+                        'color': '#0c7ecf',
                     });
                 } /*
                 if(data[12]<=0){
@@ -7681,7 +7681,7 @@ $(function () {
                 //pintar una celda       
                 if(data[4]>7){
                     $('td',row).css({               
-                        'color': '#ff3f3f',
+                        'color': '#0c7ecf',
                     });
                 }      
             },    
@@ -7937,7 +7937,7 @@ $(function () {
                 /*
                 if(data[6]>7){
                     $('td',row).css({   
-                        'color': '#ff3f3f',
+                        'color': '#0c7ecf',
                     });
                 } */
                 /*

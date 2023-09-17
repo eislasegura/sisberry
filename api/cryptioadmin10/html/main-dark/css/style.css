@@ -687,16 +687,16 @@ hr {
   border-color: #0080ff !important; }
 
 .border-success {
-  border-color: #18d26b !important; }
+  border-color: #fcc200 !important; }
 
 .border-info {
   border-color: #00b8d4 !important; }
 
 .border-warning {
-  border-color: #ffa800 !important; }
+  border-color: #1661be !important; }
 
 .border-danger {
-  border-color: #ff3f3f !important; }
+  border-color: #0c7ecf !important; }
 
 .border-dark {
   border-color: #475f7b !important; }
@@ -12482,7 +12482,7 @@ Height property
       width: 4px;
       height: 4px;
       border-radius: 100%;
-      background-color: #ff3f3f;
+      background-color: #0c7ecf;
       animation: beat .25s infinite alternate;
       transform-origin: center; }
     .main-header .navbar-custom-menu.r-side li.dropdown .dropdown-toggle i.animated::after {
@@ -13515,7 +13515,7 @@ body .main-header .navbar .nav > li.search-box > a:hover, body .main-header .nav
     opacity: 1; }
   .sidebar-menu .treeview-menu > li > a:hover {
     opacity: 1;
-    color: #ffa800 !important; }
+    color: #1661be !important; }
 
 .sidebar-collapse .sidebar-menu.tree {
   padding: 0;
@@ -14164,8 +14164,8 @@ body .main-header .navbar .nav > li.search-box > a:hover, body .main-header .nav
             .wizard-content .wizard > .steps > ul > li.done a:hover, .wizard-content .wizard > .steps > ul > li.done a:focus {
               color: #ffffff; }
         .wizard-content .wizard > .steps > ul > li.error {
-          border-color: #ff3f3f;
-          color: #ff3f3f; }
+          border-color: #0c7ecf;
+          color: #0c7ecf; }
   .wizard-content .wizard.vertical > .steps {
     display: inline;
     float: left;
@@ -16258,7 +16258,7 @@ time {
   text-transform: uppercase;
   position: relative; }
   .content-top-agile h2 {
-    color: #ffa800;
+    color: #1661be;
     font-weight: 800;
     font-size: 1.7rem; }
 
@@ -16312,35 +16312,35 @@ time {
 
 /*lable floting*/
 .has-warning .bar:before, .has-warning .bar:after {
-  background: #ffa800; }
+  background: #1661be; }
 .has-warning .form-control:focus ~ label, .has-warning .form-control:valid ~ label {
-  color: #ffa800; }
+  color: #1661be; }
 
 .has-success .bar:before, .has-success .bar:after {
-  background: #18d26b; }
+  background: #fcc200; }
 .has-success .form-control:focus ~ label, .has-success .form-control:valid ~ label {
-  color: #18d26b; }
+  color: #fcc200; }
 
 .has-error .bar:before, .has-error .bar:after {
-  background: #ff3f3f; }
+  background: #0c7ecf; }
 .has-error .form-control:focus ~ label, .has-error .form-control:valid ~ label {
-  color: #ff3f3f; }
+  color: #0c7ecf; }
 
 .has-feedback label ~ .t-0 {
   top: 0; }
 
 .form-group.error input, .form-group.error select, .form-group.error textarea {
-  border: 1px solid #ff3f3f; }
+  border: 1px solid #0c7ecf; }
 .form-group.error .help-block ul {
   padding: 0px;
-  color: #ff3f3f; }
+  color: #0c7ecf; }
   .form-group.error .help-block ul li {
     list-style: none; }
 .form-group.validate input, .form-group.validate select, .form-group.validate textarea {
-  border: 1px solid #18d26b; }
+  border: 1px solid #fcc200; }
 .form-group.issue .help-block ul {
   padding: 0px;
-  color: #ffa800; }
+  color: #1661be; }
   .form-group.issue .help-block ul li {
     list-style: none; }
 
@@ -16562,7 +16562,7 @@ time {
   background: #d5dfea; }
 
 .fc-unthemed .fc-today {
-  border: 1px solid #ff3f3f;
+  border: 1px solid #0c7ecf;
   background: #d5dfea !important; }
 
 .fc-cell-overlay, .fc-state-highlight {
@@ -16914,7 +16914,7 @@ time {
 
 /* date-paginator */
 .dp-selected[style] {
-  background-color: #18d26b !important; }
+  background-color: #fcc200 !important; }
 
 .dp-item {
   position: relative;
@@ -17130,7 +17130,7 @@ time {
       width: 5rem;
       max-width: 100%; }
   .pro-photos .item-active {
-    border-color: #ff3f3f; }
+    border-color: #0c7ecf; }
 
 .pro-price .old-price {
   text-decoration: line-through; }
@@ -17284,7 +17284,7 @@ time {
 /*-- light on-off --*/
 .light-skin .switch-on {
   display: block;
-  color: #ffa800; }
+  color: #1661be; }
 .light-skin .switch-off {
   display: none; }
 
@@ -18083,34 +18083,34 @@ input[type="color"] {
 .form-group label {
   font-weight: 500; }
 .form-group.has-success .help-block {
-  color: #18d26b; }
+  color: #fcc200; }
 .form-group.has-success label {
-  color: #18d26b; }
+  color: #fcc200; }
 .form-group.has-success .form-control {
-  border-color: #18d26b;
+  border-color: #fcc200;
   box-shadow: none; }
 .form-group.has-success .input-group-addon {
-  border-color: #18d26b;
+  border-color: #fcc200;
   box-shadow: none; }
 .form-group.has-warning .help-block {
-  color: #ffa800; }
+  color: #1661be; }
 .form-group.has-warning label {
-  color: #ffa800; }
+  color: #1661be; }
 .form-group.has-warning .form-control {
-  border-color: #ffa800;
+  border-color: #1661be;
   box-shadow: none; }
 .form-group.has-warning .input-group-addon {
-  border-color: #ffa800;
+  border-color: #1661be;
   box-shadow: none; }
 .form-group.has-error .help-block {
-  color: #ff3f3f; }
+  color: #0c7ecf; }
 .form-group.has-error label {
-  color: #ff3f3f; }
+  color: #0c7ecf; }
 .form-group.has-error .form-control {
-  border-color: #ff3f3f;
+  border-color: #0c7ecf;
   box-shadow: none; }
 .form-group.has-error .input-group-addon {
-  border-color: #ff3f3f;
+  border-color: #0c7ecf;
   box-shadow: none; }
 
 .form-control {
@@ -20309,7 +20309,7 @@ ul.flexbox {
   .toggler input {
     display: none; }
     .toggler input:checked + i {
-      color: #ffa800; }
+      color: #1661be; }
 
 .toggler-gray input:checked + i {
   color: gray; }
@@ -20778,7 +20778,7 @@ ul.flexbox {
     .todo-list > li .tools {
       display: none;
       float: right;
-      color: #ff3f3f; }
+      color: #0c7ecf; }
       .todo-list > li .tools > i {
         margin-right: 5px;
         cursor: pointer; }
@@ -20897,9 +20897,9 @@ td .label {
       border: 2px solid transparent;
       border-radius: 5px; }
     .chat .item > .online {
-      border: 2px solid #18d26b; }
+      border: 2px solid #fcc200; }
     .chat .item > .offline {
-      border: 2px solid #ff3f3f; }
+      border: 2px solid #0c7ecf; }
     .chat .item > .message {
       margin-left: 55px;
       margin-top: -40px;

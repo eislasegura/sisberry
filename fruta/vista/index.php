@@ -366,7 +366,7 @@ if($ARRAYREGISTROSABIERTOS){
         xkey: 'y',
         ykeys: ['a', 'b'],
         labels: ['D. Exportación', 'D. Interplanta'],
-        barColors:['#ff3f3f', '#0080ff'],
+        barColors:['#0c7ecf', '#0080ff'],
         hideHover: 'auto',
         gridLineColor: '#eef0f2',
         resize: true

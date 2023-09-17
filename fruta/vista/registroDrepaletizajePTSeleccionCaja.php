@@ -429,9 +429,9 @@ if (isset($id_dato) && isset($accion_dato) && isset($urlo_dato)) {
                                                                     <tr class="text-center">
                                                                         <?php 
                                                                             switch($r['ESTADO_FOLIO']){
-                                                                                case 1: echo '<td style="background: #18d26b; color: white;">P. Completado</td>';
+                                                                                case 1: echo '<td style="background: #fcc200; color: white;">P. Completado</td>';
                                                                                     break;
-                                                                                case 2: echo '<td style="background: #ffa800; color: white;">P. Incompleto</td>';
+                                                                                case 2: echo '<td style="background: #1661be; color: white;">P. Incompleto</td>';
                                                                                     break;
                                                                                 case 3: echo '<td style="background: #3085f5; color: white;">P. Muestra</td>';
                                                                                     break;

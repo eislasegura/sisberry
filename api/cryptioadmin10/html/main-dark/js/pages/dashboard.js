@@ -277,7 +277,7 @@ $(function () {
 		  candlestick: {
 			colors: {
 			  upward: '#0080ff',
-			  downward: '#ff3f3f'
+			  downward: '#0c7ecf'
 			}
 		  }
 		}
