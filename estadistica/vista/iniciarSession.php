@@ -123,7 +123,7 @@ if($_POST){
                 <img src="../../assest/img/volcan-foods-logo-original.png" alt="" height="50px">
             </div>
             <div class="card border-0">
-                <div class="card-header bg-info text-white text-center text-uppercase">
+                <div class="card-header bg-dark text-white text-center text-uppercase">
                     <img src="../../assest/img/favicon.png" alt="" height="20px">
                     Inicio de sesion <strong id="title_section"></strong>
                 </div>
