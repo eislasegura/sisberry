@@ -1441,7 +1441,7 @@ filter: alpha(opacity=0);
 /* logo */
 .logo {
 position: relative;
-width: 79px;
+width: auto;
 height: auto;
 margin: 0 auto 58px auto;
 -webkit-transition: all 0.7s;
