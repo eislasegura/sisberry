@@ -146,7 +146,7 @@ if (isset($_SESSION['parametro']) && isset($_SESSION['parametro1']) && isset($_S
 
                     <section class="content">
                         <div class="box">
-                            <div class="box-header with-border bg-success">                                   
+                            <div class="box-header with-border bg-dark">                                   
                                 <h4 class="box-title">Seleccion Detalle OC</h4>                                        
                             </div>
                             <form class="form" role="form" method="post" name="form_reg_dato" id="form_reg_dato">

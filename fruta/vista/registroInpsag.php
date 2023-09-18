@@ -594,7 +594,7 @@ if (isset($_POST)) {
                     <!-- Main content -->
                     <section class="content">
                         <div class="box">
-                            <div class="box-header with-border bg-primary">                                   
+                            <div class="box-header with-border bg-dark">                                   
                                 <h4 class="box-title">Registro de Inspección</h4>                                        
                             </div>
                             <form class="form" role="form" method="post" name="form_reg_dato" id="form_reg_dato">
@@ -891,7 +891,7 @@ if (isset($_POST)) {
 
                         <?php if (isset($_GET['op'])): ?>
                             <div class="card">                                                            
-                                <div class="card-header bg-info">
+                                <div class="card-header bg-dark">
                                     <h4 class="card-title">Detalle de Inspeccion SAG</h4>
                                 </div>
 

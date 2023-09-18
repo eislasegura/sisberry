@@ -448,7 +448,7 @@ if ($_POST) {
                     <section class="content">
                         <form class="form" role="form" method="post" name="form_reg_dato">
                             <div class="box">
-                                <div class="box-header with-border bg-success">                                   
+                                <div class="box-header with-border bg-dark">                                   
                                     <h4 class="box-title">Registro Producto Industrial</h4>                                        
                                 </div>
                                 <div class="box-body ">

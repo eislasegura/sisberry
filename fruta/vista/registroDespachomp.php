@@ -890,7 +890,7 @@ if (isset($_POST)) {
                     <section class="content">
                         <form class="form" role="form" method="post" name="form_reg_dato" id="form_reg_dato">
                             <div class="box">
-                                 <div class="box-header with-border bg-primary">                                   
+                                 <div class="box-header with-border bg-dark">                                   
                                     <h4 class="box-title">Registro de Despacho</h4>                                        
                                 </div>
                                 <div class="box-body ">
@@ -1244,7 +1244,7 @@ if (isset($_POST)) {
                         <!--.row -->
                         <?php if (isset($_GET['op'])): ?>
                             <div class="card">                            
-                                <div class="card-header bg-info">
+                                <div class="card-header bg-dark">
                                     <h4 class="card-title">Detalle de Despacho de Materia Prima</h4>
                                 </div>
                                 <div class="card-header">

@@ -117,7 +117,7 @@ if (isset($_REQUEST['GUARDAR'])) {
                     <section class="content">
                         <div class="row">
                                 <div class="box">
-                                    <div class="box-header with-border bg-primary">                                
+                                    <div class="box-header with-border bg-dark">                                
                                         <h4 class="box-title">Registro Destino Final</h4>                                
                                     </div>
                                     <!-- /.box-header -->

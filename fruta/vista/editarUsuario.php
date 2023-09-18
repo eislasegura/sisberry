@@ -242,7 +242,7 @@ if (isset($NOMBREUSUARIOS)) {
                                                             </a>
                                                         </span>
                                                     </h4>
-                                                    <h4 class="media media-single p-15 bg-info">
+                                                    <h4 class="media media-single p-15 bg-dark">
                                                         <i class="fa fa-arrow-circle-o-right mr-10"></i>
                                                         <span class="title">
                                                             <a href="#">
@@ -277,7 +277,7 @@ if (isset($NOMBREUSUARIOS)) {
                             <!-- /.col -->
                             <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 col-xs-12">
                                 <div class="box">
-                                    <div class="box-header with-border bg-info">
+                                    <div class="box-header with-border bg-dark">
                                         <h3 class="box-title">Editar Perfil </h3>
                                     </div>
                                     <!-- /.box-header -->

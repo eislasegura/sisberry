@@ -132,7 +132,7 @@ if (isset($_SESSION["ID_TEMPORADA"])) {
 </head>
 <body class="hold-transition sidebar-collapse sidebar-mini login-page">
     <div class="card border-0">
-        <div class="card-header bg-info text-white text-center text-uppercase">
+        <div class="card-header bg-dark text-white text-center text-uppercase">
             <img src="../../assest/img/favicon.png" alt="" height="20px">Seleccion de parametros <strong id="title_section"></strong>
         </div>
         <div class="card-body login-card-body">

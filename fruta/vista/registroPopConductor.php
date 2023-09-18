@@ -210,7 +210,7 @@ if (isset($_REQUEST['GUARDAR'])) {
             <!-- Main content -->
                     <section class="content">
                                 <div class="box">
-                                    <div class="box-header with-border bg-primary">
+                                    <div class="box-header with-border bg-dark">
                                         <h4 class="box-title">Registro Conductor</h4>                                
                                     </div>
                                     <!-- /.box-header -->

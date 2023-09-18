@@ -122,7 +122,7 @@ if (isset($_REQUEST['GUARDAR'])) {
                         <div class="row">
                             <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 col-xs-12">
                                 <div class="box">
-                                    <div class="box-header with-border bg-primary">                                        
+                                    <div class="box-header with-border bg-dark">                                        
                                         <h4 class="box-title">Registro Tipo Contenedor</h4>                                        
                                     </div>
                                     <!-- /.box-header -->

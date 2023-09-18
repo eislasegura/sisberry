@@ -166,7 +166,7 @@ if (isset($id_dato) && isset($accion_dato) && isset($urlo_dato)) {
                     </div>
                     <section class="content">
                         <div class="card">                            
-                            <div class="card-header with-border bg-info">                                   
+                            <div class="card-header with-border bg-dark">                                   
                                 <h4 class="card-title">Seleccionar existencia</h4>                                        
                             </div>
                             <form class="form" role="form" method="post" name="form_reg_dato" id="form_reg_dato">

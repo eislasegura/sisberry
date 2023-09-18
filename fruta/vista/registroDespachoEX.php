@@ -1387,7 +1387,7 @@ if (isset($_POST)) {
                     <!-- Main content -->
                     <section class="content">
                         <div class="card">   
-                            <div class="card-header with-border bg-info">                                   
+                            <div class="card-header with-border bg-dark">                                   
                                 <h4 class="card-title">Registro de Despacho</h4>                                        
                             </div>
                             <form method="post" class="form " role="form" name="form_reg_dato" id="form_reg_dato"> 
@@ -2208,7 +2208,7 @@ if (isset($_POST)) {
                         </div>
                         <?php if (isset($_GET['op'])): ?>
                             <div class="card">                            
-                                <div class="card-header bg-info">
+                                <div class="card-header bg-dark">
                                     <h4 class="card-title">Detalle de Despacho de Producto Terminado</h4>
                                 </div>
                                 <div class="card-header">

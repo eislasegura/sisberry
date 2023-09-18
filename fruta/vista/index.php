@@ -175,7 +175,7 @@ if($ARRAYREGISTROSABIERTOS){
                                             <div class="col-lg-6 col-12">
                                                 <div class="box">
                                                     <div class="box-body p-0">
-                                                        <div class="d-flex justify-content-between align-items-center p-5 bg-primary">
+                                                        <div class="d-flex justify-content-between align-items-center p-5 bg-dark">
                                                             <h4 class="font-weight-700 my-0">RECEPCIÓN MP</h4>
                                                         </div>
                                                         <div class="d-flex justify-content-around align-items-center p-5 bg-secondary-light">
@@ -198,13 +198,13 @@ if($ARRAYREGISTROSABIERTOS){
                                                         </div>
                                                         
                                                         <div class="d-flex justify-content-around p-10">
-                                                            <div class="justify-content-between w-p100 p-10 bg-success-light mr-5 rounded">	
+                                                            <div class="justify-content-between w-p100 p-10 bg-dark-light mr-5 rounded">	
                                                         								
                                                                 <p>MP ACUMULADO</p>	
                                                                 <br/>		
                                                                 <h3 class="text-align: center;"><?php if($query_acumuladoMP){ echo number_format(round($query_acumuladoMP[0]["TOTAL"], 0), 0, ",", "."); } ?></h3>
                                                             </div>
-                                                            <div class="justify-content-between w-p100 p-10 bg-info-light ml-5 rounded">							
+                                                            <div class="justify-content-between w-p100 p-10 bg-dark-light ml-5 rounded">							
                                                                 <p>MP DÍA ANTERIOR</p>
                                                                 <br/>		
                                                                 <h3 class="text-align: center;"><?php if($query_acumuladoMPDiaAnterior){ echo number_format(round($query_acumuladoMPDiaAnterior[0]["TOTAL"], 0), 0, ",", "."); } ?></h3>
@@ -248,13 +248,13 @@ if($ARRAYREGISTROSABIERTOS){
                                                         </div>
                                                         
                                                         <div class="d-flex justify-content-around p-10">
-                                                            <div class="justify-content-between w-p100 p-10 bg-success-light mr-5 rounded">	
+                                                            <div class="justify-content-between w-p100 p-10 bg-dark-light mr-5 rounded">	
                                                         								
                                                                 <p>MP PROCESADA</p>	
                                                                 <br/>		
                                                                 <h3 class="text-align: center;"><?php if($query_acumuladoMPProcesado){ echo number_format(round($query_acumuladoMPProcesado[0]["TOTAL"], 0), 0, ",", "."); } ?></h3>
                                                             </div>
-                                                            <div class="justify-content-between w-p100 p-10 bg-info-light ml-5 rounded">							
+                                                            <div class="justify-content-between w-p100 p-10 bg-dark-light ml-5 rounded">							
                                                                 <p>PROCE. DÍA ANTERIOR</p>
                                                                 <br/>		
                                                                 <h3 class="text-align: center;"><?php if($query_acumuladoMPProcesadoDiaAnterior){ echo number_format(round($query_acumuladoMPProcesadoDiaAnterior[0]["TOTAL"], 0), 0, ",", "."); } ?></h3>

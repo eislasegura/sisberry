@@ -593,7 +593,7 @@ if (isset($_POST)) {
 
                         <form class="form" role="form" method="post" name="form_reg_dato" id="form_reg_dato">
                             <div class="box">                              
-                                 <div class="box-header with-border bg-primary">                                   
+                                 <div class="box-header with-border bg-dark">                                   
                                     <h4 class="box-title">Encabezado de Reembalaje</h4>                                        
                                 </div>
                                 <div class="box-body ">
@@ -785,7 +785,7 @@ if (isset($_POST)) {
                         </form>
                         <?php if (isset($_GET['op'])): ?>
                             <div class="card">
-                                <div class="card-header bg-info">
+                                <div class="card-header bg-dark">
                                     <h4 class="card-title">Ingreso / Existencia Producto Terminado</h4>
                                 </div>
                                 <div class="card-header">
@@ -971,7 +971,7 @@ if (isset($_POST)) {
                                 </div>
                             </div>
                             <div class="card">
-                                <div class="card-header bg-success">
+                                <div class="card-header bg-dark">
                                     <h4 class="card-title">Salida / Detalle Reembalaje </h4>
                                 </div>
                                 <div class="card-header">
