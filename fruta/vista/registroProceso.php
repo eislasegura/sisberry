@@ -1074,7 +1074,7 @@ if (isset($_POST)) {
                                                             
                                                             <?php 
                                                                 switch($r['ESTADO_FOLIO']){
-                                                                    case 1: echo '<td style="background: #fcc200; color: white;">P. Completado</td>';
+                                                                    case 1: echo '<td style="background: #58bf00; color: white;">P. Completado</td>';
                                                                         break;
                                                                     case 2: echo '<td style="background: #1661be; color: white;">P. Incompleto</td>';
                                                                         break;

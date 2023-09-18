@@ -271,10 +271,10 @@ $html = '
            <img src="../../assest/img/logo.png" width="150px" height="45px"/>
       </div>
       <div id="company">
-        <h2 class="name">Go Creative Chile.</h2>
-        <div>Los Ángeles, Bio bio, Chile</div>
-        <div>Soluciones para la agroindustria desde 2018</div>
-        <div><a href="https://wa.me/56944627287">+56944627287</a></div>
+        <h2 class="name">Soc. Agrícola El Álamo Ltda.</h2>
+        <div>Camino a Antuco, Kilómetro N°13</div>
+        <div>Los Ángeles, Chile.</div>
+        <div><a href="mailto:ti@fvolcan.com">ti@fvolcan.cl</a></div>
       </div>
     </header>
     <main>
@@ -475,9 +475,9 @@ $PDF->SetHTMLFooter('
 
 
 <footer>
-Para más información de nuestro sistema, contactar al equipo de Go Creative al WhatsApp: <a href="https://wa.me/56944627287">+56944627287</a>
+Informe generado por Departamento TI Fruticola Volcan <a href="mailto:ti@fvolcan.cl">ti@fvolcan.cl.</a>
 <br>
-Control de impresión: <b>' . $NOMBRE . '.</b> Hora impresión: <b>' . $HORAFINAL2 . '</b>
+Impreso por: <b>' . $NOMBRE . '.</b> Hora impresión: <b>' . $HORAFINAL2 . '</b>
 </footer>
 
 ');
