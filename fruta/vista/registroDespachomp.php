@@ -1162,7 +1162,7 @@ if (isset($_POST)) {
                                             </div>
                                         <?php } ?>
                                     </div>                                    
-                                        <p class="text-muted"><i class="fas fa-info-circle"></i> Datos necesarios para el despacho de envases</p>               
+                                        <p class="text-muted"><i class="fa fa-info-circle"></i> Datos necesarios para el despacho de envases</p>               
                                     
                                     <div class="row">                     
                                         <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-12 col-sm-12 col-12 col-xs-12">

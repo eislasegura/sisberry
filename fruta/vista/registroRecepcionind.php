@@ -1037,7 +1037,7 @@ if (isset($_POST)) {
                                             </div>
                                         </div>
                                     </div>
-                                    <p class="text-muted"><i class="fas fa-info-circle"></i> Datos necesarios para la recepción de envases</p>
+                                    <p class="text-muted"><i class="fa fa-file-text"></i> Datos necesarios para la recepción de envases</p>
                                     <div class="row">
                                         <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-12 col-sm-12 col-12 col-xs-12">
                                             <div class="form-group">
