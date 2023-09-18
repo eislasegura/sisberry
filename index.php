@@ -1,7 +1,7 @@
 <html lang="es-Ep">
 
 <head>
-    <title>Sistemas</title>
+    <title>Selección de Gestión</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -19,7 +19,7 @@
 
 </head>
 
-<body class="hold-transition theme-primary bg-gradient-primary">
+<body class="hold-transition theme-primary bg-dark">
     <div class="container h-p100">
         <div class="row align-items-center justify-content-md-center h-p100">
             <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 col-xs-12">
@@ -27,34 +27,34 @@
                     <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-5 col-sm-12 col-12 col-xs-12">
                         <div class="bg-white-10 rounded5">
                             <div class="content-top-agile p-10 pb-0">
-                                <h2 class="text-white">SELECCION SISTEMAS</h2>
+                                <h2 class="text-white">SELECCION DE GESTIÓN</h2>
                             </div>
                             <div class="p-30">
                                 <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 col-xs-12">
                                     <div class="form-group">
                                         <a href="fruta">
-                                            <button type="button" class="btn bg-gradient-primary btn-block" id="ENTRAR" name="ENTRAR">Fruta</button>
+                                            <button type="button" class="btn bg-success btn-block" id="ENTRAR" name="ENTRAR">Gestión Fruta</button>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 col-xs-12">
                                     <div class="form-group">
                                         <a href="material">
-                                            <button type="button" class="btn bg-gradient-secondary btn-block " id="ENTRAR" name="ENTRAR">Materiales</button>
+                                            <button type="button" class="btn bg-success btn-block " id="ENTRAR" name="ENTRAR">Gestión Materiales</button>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 col-xs-12">
                                     <div class="form-group">
                                         <a href="exportadora">
-                                            <button type="button" class="btn bg-gradient-info btn-block " id="ENTRAR" name="ENTRAR">Exportadora</button>
+                                            <button type="button" class="btn bg-success btn-block " id="ENTRAR" name="ENTRAR">Gestión Exportadora</button>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 col-xs-12">
                                     <div class="form-group">
                                         <a href="estadistica">
-                                            <button type="button" class="btn bg-gradient-info btn-block " id="ENTRAR" name="ENTRAR">Estadisticas</button>
+                                            <button type="button" class="btn bg-success btn-block " id="ENTRAR" name="ENTRAR">Gestión Estadisticas</button>
                                         </a>
                                     </div>
                                 </div>
