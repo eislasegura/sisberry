@@ -748,9 +748,9 @@ $PDF->SetHTMLHeader('
 $PDF->SetHTMLFooter('
 
 <footer>
-Informe generado por Departamento TI Fruticola Volcan <a href="mailto:ti@fvolcan.cl">ti@fvolcan.cl.</a>
+Para más información de nuestro sistema, contactar al equipo de Go Creative al WhatsApp: <a href="https://wa.me/56944627287">+56944627287</a>
 <br>
-Impreso por: <b>' . $NOMBRE . '.</b> Hora impresión: <b>' . $HORAFINAL2 . '</b>
+Control de impresión: <b>' . $NOMBRE . '.</b> Hora impresión: <b>' . $HORAFINAL2 . '</b>
 </footer>
     
 ');

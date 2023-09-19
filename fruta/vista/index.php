@@ -120,9 +120,9 @@ if($ARRAYREGISTROSABIERTOS){
                             </div>
                             <?php include_once "../../assest/config/verIndicadorEconomico.php"; ?>
                         </div>
-                    </div>
-                    <!-- Main content -->     
-                    <!--                   
+                    </div> -->
+                    <!-- Main content -->   
+                    <!--               
                     <section class="content">
                         <div class="row">
 
@@ -157,13 +157,11 @@ if($ARRAYREGISTROSABIERTOS){
                                                 </tr>
                                             </table>
                                         </div>				
-                                    </div>
+                                    </div> -->
                                     <!-- /.box-body -->
                                 </div>
                             
                             </div> 
-                                                            -->
-                                                            -->
 <!--
                             <div class="col-xl-7 col-12">
                                 <div class="box">
@@ -216,7 +214,7 @@ if($ARRAYREGISTROSABIERTOS){
                                                             </div>
                                                             <div class="w-p100 ml-5">							
                                                                 <select class="form-control">
-                                                                    <option>Volcan Foods</option>
+                                                                    <option>Volcan Foods</option> -->
                                                                  <!--   <option>Best Berry Chile</option> -->
                                                                 </select>
                                                             </div>
@@ -224,7 +222,7 @@ if($ARRAYREGISTROSABIERTOS){
                                                     </div>
                                                 </div>  
                                             </div>
-                                                            -->
+
                                             <!--
                                             <div class="col-lg-6 col-12">
                                                 <div class="box">
@@ -266,7 +264,7 @@ if($ARRAYREGISTROSABIERTOS){
                                                             </div>
                                                             <div class="w-p100 ml-5">							
                                                                 <select class="form-control">
-                                                                    <option>Volcan Foods</option>
+                                                                    <option>Volcan Foods</option> -->
                                                                     <!--<option>Best Berry Chile</option>-->
                                                                 </select>
                                                             </div>
@@ -289,7 +287,7 @@ if($ARRAYREGISTROSABIERTOS){
                                     </div>
                                 </div>
 				            </div>
-                                                            -->
+
                        <!-- <div class="col-xl-5 col-12">
                                 <div class="box">
                                     <div class="box-header with-border" style="padding: 7px 1.5rem!important;">

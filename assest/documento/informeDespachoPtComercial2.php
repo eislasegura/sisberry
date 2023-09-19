@@ -661,7 +661,7 @@ $PDF->SetHTMLFooter('
 
 
 <footer>
-  Impreso por: <b>' . $NOMBRE . '.</b> Hora impresión: <b>' . $HORAFINAL2 . '</b>
+  Control de impresión: <b>' . $NOMBRE . '.</b> Hora impresión: <b>' . $HORAFINAL2 . '</b>
 </footer>
     
 ');

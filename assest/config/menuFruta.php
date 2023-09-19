@@ -57,7 +57,7 @@
                 echo "<script type='text/javascript'> location.href ='iniciarSession.php';</script>";
               }
               ?>
-              <br>
+              |
               <?php
               if (isset($_SESSION["NOMBRE_USUARIO"])) {
                 $ARRAYTEMPORADAS = $TEMPORADA_ADO->verTemporada($TEMPORADAS);
@@ -322,7 +322,7 @@ $ARRAYPLANTACAMBIAR = $PLANTA_ADO->listarPlantaPropiaCBX();
           <li class="treeview">
             <a href="#">
               <img src="../../api/cryptioadmin10/html/images/svg-icon/sidebar-menu/layout.svg" class="svg-icon" alt="">
-              <span>Granel</span>
+              <span>Acopio Granel</span>
               <span class="pull-right-container">
                 <i class="fa fa-angle-right pull-right"></i>
               </span>
@@ -423,7 +423,7 @@ $ARRAYPLANTACAMBIAR = $PLANTA_ADO->listarPlantaPropiaCBX();
             <li class="treeview">
               <a href="#">
                 <img src="../../api/cryptioadmin10/html/images/svg-icon/sidebar-menu/cards.svg" class="svg-icon" alt="">
-                <span>Envases</span>
+                <span>Control Envases</span>
                 <span class="pull-right-container">
                   <i class="fa fa-angle-right pull-right"></i>
                 </span>
@@ -472,7 +472,7 @@ $ARRAYPLANTACAMBIAR = $PLANTA_ADO->listarPlantaPropiaCBX();
                     <?php  } ?>
                     <?php if($PMKARDEX=="1"){ ?>
                       <?php if($PMKENVASE=="1"){ ?>
-                        <li><a href="listarHinventarioe.php">Kardex <i class="ti-more"></i></a></li>
+                        <li><a href="listarHInventarioe.php">Kardex <i class="ti-more"></i></a></li>
                       <?php  } ?>
                     <?php  } ?>
               </ul>
@@ -483,7 +483,7 @@ $ARRAYPLANTACAMBIAR = $PLANTA_ADO->listarPlantaPropiaCBX();
           <li class="treeview">
             <a href="#">
               <img src="../../api/cryptioadmin10/html/images/svg-icon/sidebar-menu/forms2.svg" class="svg-icon" alt="">
-              <span>Packing</span>
+              <span>Control Packing</span>
               <span class="pull-right-container">
                 <i class="fa fa-angle-right pull-right"></i>
               </span>
@@ -536,7 +536,7 @@ $ARRAYPLANTACAMBIAR = $PLANTA_ADO->listarPlantaPropiaCBX();
             <li class="treeview">
               <a href="#">
                 <img src="../../api/cryptioadmin10/html/images/svg-icon/sidebar-menu/exchange.svg" class="svg-icon" alt="">
-                <span> Exportación</span>
+                <span>Exportación</span>
                 <span class="pull-right-container">
                   <i class="fa fa-angle-right pull-right"></i>
                 </span>
@@ -599,7 +599,7 @@ $ARRAYPLANTACAMBIAR = $PLANTA_ADO->listarPlantaPropiaCBX();
           <li class="treeview">
             <a href="#">
               <img src="../../api/cryptioadmin10/html/images/svg-icon/sidebar-menu/maps.svg" class="svg-icon" alt="">
-              <span> Frigorifico</span>
+              <span>Control Frigorifico</span>
               <span class="pull-right-container">
                 <i class="fa fa-angle-right pull-right"></i>
               </span>
